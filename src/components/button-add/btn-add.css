@@ -1,0 +1,21 @@
+.btn{
+    height:40px;
+    width: 200px;
+    margin: 20px 0;
+    background-color: #38b7ea;
+    color:white;
+    font-family: "Mon";
+    font-size:14px;
+    border-radius: 45px;
+}
+
+.btn:hover{
+    border: 2px solid #38b7ea;
+    background-color: white;
+    color:#38b7ea;
+
+}
+
+.btn:focus {
+    outline: none;
+}
